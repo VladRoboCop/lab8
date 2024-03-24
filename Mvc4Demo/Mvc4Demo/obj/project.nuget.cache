@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vLWp6hr1lOfnDGpwa7W0knM2hx1Y0z2RZ2xw5GkxlIH1L7v2Exh7xLm6vaDqpF5zbObaw3GYe2zmiOSVAYaMKw==",
+  "success": true,
+  "projectFilePath": "D:\\Microsoft Visual Studio\\source\\repos\\Mvc4Demo\\Mvc4Demo\\Mvc4Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\vladr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\vladr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\vladr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
